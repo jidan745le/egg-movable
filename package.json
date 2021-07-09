@@ -1,0 +1,19 @@
+{
+  "name": "egg-movable",
+  "version": "1.0.1",
+  "description": "a simple movable library",
+  "main": "dist/bundle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jidan745le/egg-movable.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jidan745le/egg-movable/issues"
+  },
+  "homepage": "https://github.com/jidan745le/egg-movable#readme"
+}
